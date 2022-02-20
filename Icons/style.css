@@ -1,0 +1,26 @@
+.myIcon i{
+font-size: 20px;
+color: aliceblue;
+}
+.myIcon{
+background-color: hsl(199deg 98% 47%);
+display: inline-block;
+width: 40px;
+height: 40px;
+text-align: center;
+line-height: 43px;
+border-radius: 20%;
+}
+.myIcon2 i{
+font-size: 20px;
+color: aliceblue;
+}
+.myIcon2{
+background-color: hsl(220deg 46% 41%);
+display: inline-block;
+width: 40px;
+height: 40px;
+text-align: center;
+line-height: 43px;
+border-radius: 20%;
+}
